@@ -45,3 +45,23 @@ header li {
     width: 30%;
 }
 
+.note-concordia{
+    color: hotpink;
+}
+
+.text-note{
+    color: chocolate;
+}
+
+.ent-mrbean{
+    color: blue;
+}
+
+.ent-mrbean time{
+    color: black;
+}
+
+.bio-mrbean{
+    color: chartreuse;
+}
+
